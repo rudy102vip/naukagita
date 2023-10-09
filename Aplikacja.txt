@@ -3,3 +3,10 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+  public void logowanie() {
+	System.out.println("przypomnienie hasła");
+        System.out.println("Podaj 222 użytkownika");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
