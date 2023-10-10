@@ -13,3 +13,6 @@
 
 public void logowanie() {
 	System.out.println("wylogowanie się");
+
+public void logowanie() {
+	System.out.println("Podaj imie");
