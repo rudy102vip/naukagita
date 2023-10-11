@@ -20,3 +20,5 @@ public void logowanie() {
 	Hello world
 
 	Kamil
+
+	Dudziński
