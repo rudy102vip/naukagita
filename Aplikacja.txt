@@ -18,3 +18,5 @@ public void logowanie() {
 	System.out.println("Podaj imie");
 
 	Hello world
+
+	Kamil
